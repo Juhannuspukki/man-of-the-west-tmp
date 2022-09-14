@@ -1,9 +1,13 @@
 baseurl = "/"
 languageCode = "fi"
 languageLang = "fi"
-title = "Lännen mies"
+title = "Mies lännestä"
 summaryLength = 30
 timeout = 20000
+
+[markup.goldmark.renderer]
+unsafe= true
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
