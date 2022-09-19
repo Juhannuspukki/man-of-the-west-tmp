@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "fi"
-languageLang = "fi"
+defaultContentLanguage = "fi"
 title = "Mies lännestä"
 summaryLength = 30
 timeout = 20000
