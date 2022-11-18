@@ -3,7 +3,7 @@ languageCode = "fi"
 defaultContentLanguage = "fi"
 title = "Mies lännestä"
 summaryLength = 30
-timeout = 20000
+timeout = 100000
 
 [markup.goldmark.renderer]
 unsafe= true
