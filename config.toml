@@ -5,6 +5,11 @@ title = "Mies lännestä"
 summaryLength = 30
 timeout = 100000
 
+[languages]
+  [languages.fi]
+    languageCode = "fi"
+
+
 [markup.goldmark.renderer]
 unsafe= true
 
