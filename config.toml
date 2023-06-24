@@ -2,8 +2,10 @@ baseurl = "https://xn--mieslnnest-u5af.fi"
 languageCode = "fi"
 defaultContentLanguage = "fi"
 title = "Mies lännestä"
+paginatePath = "sivu"
 summaryLength = 30
 timeout = 100000
+paginate = 20
 
 [languages]
   [languages.fi]
