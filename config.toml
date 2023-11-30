@@ -5,7 +5,7 @@ title = "Mies lännestä"
 paginatePath = "sivu"
 summaryLength = 30
 timeout = 100000
-paginate = 20
+paginate = 30
 
 [languages]
   [languages.fi]
