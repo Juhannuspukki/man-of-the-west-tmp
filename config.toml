@@ -6,6 +6,7 @@ pagination.path = "sivu"
 timeout = 100000
 pagination.pagerSize = 30
 summaryLength = 10
+ignoreFiles = ['content/images/.*']
 
 [languages]
   [languages.fi]
@@ -13,7 +14,7 @@ summaryLength = 10
 
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 
 # RSS, categories and tags disabled for an easy start
